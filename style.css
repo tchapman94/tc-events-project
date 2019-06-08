@@ -1,0 +1,24 @@
+body{   
+    
+}
+#button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 25px;
+}
+#button-container button{
+    margin: 10px;
+    height: 80px;
+    width: 120px;
+}
+#colors{
+    width: 100px;
+
+}
+
+.color-actions{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
